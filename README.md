@@ -1,2 +1,2 @@
-# SQL_CovidProject
+# PortfolioProjects
 Data Exploration using SQL  
